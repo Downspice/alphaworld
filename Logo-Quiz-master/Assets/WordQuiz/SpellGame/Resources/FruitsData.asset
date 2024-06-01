@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: FruitsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 3ca7e9dfc107e1b45ab8252046552443, type: 3}
+    answer: apple
+  - questionImage: {fileID: 21300000, guid: 967d718a4e12b4f50ab745b69e0a8426, type: 3}
+    answer: bug
+  - questionImage: {fileID: 21300000, guid: c34ae44ffb7d64124b1dd2fc7af725af, type: 3}
+    answer: cat
+  - questionImage: {fileID: 21300000, guid: ea4800d0bf8324712b36a2e431af6258, type: 3}
+    answer: dog
+  - questionImage: {fileID: 21300000, guid: 2b2a20a3b059845aaa3bbb68369689ce, type: 3}
+    answer: egg
+  - questionImage: {fileID: 21300000, guid: bf9758de8963043439d1bd9eb090e5f0, type: 3}
+    answer: fork
+  - questionImage: {fileID: 21300000, guid: 937be8177b48f4c2bbaa76358313fd44, type: 3}
+    answer: girl
+  - questionImage: {fileID: 21300000, guid: 9073e04a4555146f28f288943f594de9, type: 3}
+    answer: hat
+  - questionImage: {fileID: 21300000, guid: 5eab93d8374294574ab1a7518da096bb, type: 3}
+    answer: iguana
+  - questionImage: {fileID: 21300000, guid: a05e45595795344b3a1c48c95a95a643, type: 3}
+    answer: jet
+  - questionImage: {fileID: 21300000, guid: 8c1c99fb6328446b48e10f29f0b53602, type: 3}
+    answer: king
+  - questionImage: {fileID: 21300000, guid: 0d925e120cbe942d487545b852b83025, type: 3}
+    answer: lion
+  - questionImage: {fileID: 21300000, guid: de1f45dd71899456da50fc912c65d829, type: 3}
+    answer: monkey
+  - questionImage: {fileID: 21300000, guid: 84b0eaec561404fec827ec09a112ae6b, type: 3}
+    answer: nest
+  - questionImage: {fileID: 21300000, guid: e5f6f519835724f4ea38507ff23c12d7, type: 3}
+    answer: octopus
+  - questionImage: {fileID: 21300000, guid: 2f03d08393ec242eabf8b0204c263bf5, type: 3}
+    answer: pig
+  - questionImage: {fileID: 21300000, guid: 5231efd28575e492cab10be946b7099d, type: 3}
+    answer: queen
+  - questionImage: {fileID: 21300000, guid: aa1347e54374143d798f83b38b9b6b7f, type: 3}
+    answer: rocket
+  - questionImage: {fileID: 21300000, guid: 97582db40312941288083a0db024c3ee, type: 3}
+    answer: sun
+  - questionImage: {fileID: 21300000, guid: 77db07243cf1342c5837a14be6ae9b97, type: 3}
+    answer: tiger
+  - questionImage: {fileID: 21300000, guid: b1d08c4e766a4421db6c9164a0bfc9f1, type: 3}
+    answer: umbrella
+  - questionImage: {fileID: 21300000, guid: 30c35b08d02df44fbaecb4e707664c01, type: 3}
+    answer: Van
+  - questionImage: {fileID: 21300000, guid: ea7e0cddefb164adfb7595b103ce223a, type: 3}
+    answer: water
+  - questionImage: {fileID: 21300000, guid: 53948fe4c2c2a44f59a631a7d1d88c4b, type: 3}
+    answer: box
+  - questionImage: {fileID: 21300000, guid: 578967a71e9554c878c11259cde10a76, type: 3}
+    answer: yak
+  - questionImage: {fileID: 21300000, guid: 0ce8447e645304667b8db4498cc4c966, type: 3}
+    answer: zebra
